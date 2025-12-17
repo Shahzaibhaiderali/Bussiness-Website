@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Techxide – Business Website</title>
+</head>
+<body>
 
-# Run and deploy your AI Studio app
+  <p>
+    Techxide is a modern, professional business website created for digital services such as web development, logo design, branding, video animation, copywriting, and digital marketing. The website is designed with a strong focus on clean user interface, smooth animations, responsiveness across all devices, and a premium agency-style look.
+  </p>
 
-This contains everything you need to run your app locally.
+  <p>
+    This project includes everything required to view and test the application locally and in preview mode. The structure is simple, well-organized, and easy to maintain, making it suitable for real-world business use.
+  </p>
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Tnu4_giHa7X_FNpFEl7rQCOhwQkYW4-Y
+  <p>
+    The website features a professional layout with clearly defined sections for services, portfolio, pricing, statistics, workflow, and contact information. Navigation is clean and optimized, ensuring a smooth user experience on both desktop and mobile devices. Light and dark themes are supported to enhance accessibility and visual comfort.
+  </p>
 
-## Run Locally
+  <p>
+    Animations are subtle and purposeful, adding visual depth without affecting performance. Typography, spacing, and layout are carefully balanced to deliver a polished and trustworthy digital presence.
+  </p>
 
-**Prerequisites:**  Node.js
+  <p>
+    The project is frontend-focused and avoids unnecessary dependencies or third-party integrations. The codebase is clean, readable, and optimized for performance, making it ready for production after final review.
+  </p>
 
+  <p>
+    This website is intended for educational, demonstration, and business purposes. It can be customized, extended, or adapted according to specific project requirements or branding needs.
+  </p>
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+</body>
+</html>
