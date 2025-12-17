@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
 </head>
 <body>
-<h1>Tecxide</h1>
+<h1>Techxide</h1>
   <p>
     Techxide is a modern, professional business website created for digital services such as web development, logo design, branding, video animation, copywriting, and digital marketing. The website is designed with a strong focus on clean user interface, smooth animations, responsiveness across all devices, and a premium agency-style look.
   </p>
